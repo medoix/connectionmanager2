@@ -1,10 +1,11 @@
 {
-    "shell-version": ["3.12", "3.14"],
-    "version": "0.8.4",
-    "uuid": "connectionmanager2@ciancio.net",
+    "shell-version": ["3.12", "3.14", "3.16"],
+    "version": "0.8.5",
+    "uuid": "connectionmanager2@medoix.com",
     "name": "Connection Manager",
     "description": "Simple GUI app for Gnome 3 that provides a menu for initiating SSH/Telnet/Custom Apps connections.",
-    "url": "https://github.com/sciancio/connectionmanager2",
+    "url": "https://github.com/medoix/connectionmanager2",
+    "authors": "Medoix",
     "original-authors": "Stefano Ciancio",
     "sw_bin": "connmgr.py",
     "sw_config": ".connmgr"
