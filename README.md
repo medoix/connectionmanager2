@@ -28,7 +28,7 @@ How to install
 
 Download the zip file to $HOME/.local/share/gnome-shell/extensions
 and unpack it. A directory called connectionmanager2-master should 
-be created. Rename it to connectionmanager2@ciancio.net.
+be created. Rename it to connectionmanager2@medoix.com.
 
 For use by all users, install in /usr/share/gnome-shell/extensions.
 
@@ -46,17 +46,16 @@ You can also install from [Gnome Shell Extension site](https://extensions.gnome.
 Current Version
 ========================
 
-Release 0.8.4 [Changes](https://github.com/medoix/connectionmanager2/CHANGELOG.md)
+Release 0.8.4 [Changes](https://github.com/medoix/connectionmanager2/blob/master/CHANGELOG.md)
 
 Other Info
 ========================
 
 You can find other info: 
 
-* [GitHub wiki](https://github.com/sciancio/connectionmanager/wiki)
 * [Gnome Shell Extension](https://extensions.gnome.org/extension/699/connection-manager/)
-* [GitHub](https://github.com/sciancio/connectionmanager)
-* [License](https://github.com/sciancio/connectionmanager/wiki/License)
+* [GitHub](https://github.com/medoix/connectionmanager2)
+* [License](https://github.com/medoix/connectionmanager2/blob/master/LICENSE)
 
 
 
