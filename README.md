@@ -46,7 +46,7 @@ You can also install from [Gnome Shell Extension site](https://extensions.gnome.
 Current Version
 ========================
 
-Release 0.8.2 [Changes](https://github.com/sciancio/connectionmanager/wiki/Changes)
+Release 0.8.4 [Changes](https://github.com/medoix/connectionmanager2/CHANGELOG.md)
 
 Other Info
 ========================
